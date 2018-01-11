@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mishpahug</string>
+    <string name="facebook_app_id">167521037095166</string>
+    <string name="fb_login_protocol_scheme">fb167521037095166</string>
+    <string name="title">Shabat Shalom</string>
+    <string name="text">Did you like?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
